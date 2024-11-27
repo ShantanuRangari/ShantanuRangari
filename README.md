@@ -60,6 +60,7 @@
 
 ## Social Media Handles 🐙
 [![Github](https://img.shields.io/github/followers/ShantanuRangari?label=Follow&style=social)](https://github.com/ShantanuRangari)
+[![Linkedin](https://img.shields.io/badge/-kodtodya-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/shantanu-rangari/)
 [![Mail](https://img.shields.io/badge/shantanurangari8@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:shantanurangari8@gmail.com)
 
 ## Profile Visits 👀
