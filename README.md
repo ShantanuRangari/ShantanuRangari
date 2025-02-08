@@ -12,8 +12,7 @@
 💻 Curious about the intersection of AI and large language models, and always pushing boundaries to innovate!
 ✨ Check out my repositories to see how I bring ideas to life. Let’s build something amazing! 🌟
 
-
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h2>Here is what, currently I'm working on 👋</h2>
 
 - 🌍 I'm based in Pune, India
