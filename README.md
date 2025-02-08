@@ -20,13 +20,14 @@
 - 🔭 I’m currently working on : Java, Spring, Spring Boot, Spring MVC, MySQL and many more things.
 - 🌱 I’m currently learning : Microservices
 - 📫 How to reach me https://github.com/ShantanuRangari
-- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
+- ⚡ Fun fact: "A software engineer’s life motto: ‘If it works, don’t touch it. Ever!’" 😆💻
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
@@ -34,7 +35,6 @@
 ## Frameworks I worked with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-
 
 
 ## Databases I worked with
